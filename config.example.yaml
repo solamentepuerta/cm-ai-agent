@@ -1,0 +1,6 @@
+paths:
+  brand_context: "brand_context.md"
+  tasks: "tasks.md"
+  data_dir: "data"
+  scripts_dir: "scripts"
+  prompts_dir: "prompts"
